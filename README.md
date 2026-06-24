@@ -31,7 +31,7 @@ My home lab is where I learn by breaking and rebuilding things:
 
 ## 📜 Certifications
 
-- 🔄 AWS Cloud Certification
+- 🔄 AWS Cloud Certification *(in progress)*
 - 🔄 CompTIA Network+ *(in progress)*
 - 🔄 CompTIA Security+ *(in progress)*
 
