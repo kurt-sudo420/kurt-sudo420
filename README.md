@@ -5,7 +5,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](.)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](.)
  
-**Information Security Analyst ·  @ UMass Boston**
+**Information Security Analyst · IT Systems Administration Student @ Umass Boston**
 
 I'm an IT student on a Systems Administration track with hands-on Security Operations (SOC) experience. I work as an Information Security Analyst at UMass Boston, and I run a home lab where I self-host cloud services, media servers, and local LLMs. I like understanding systems from the infrastructure up — and then figuring out how to defend them.
 
