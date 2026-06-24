@@ -11,6 +11,8 @@ I'm an IT student on a Systems Administration track with hands-on Security Opera
 
 ---
 
+| Area | Details |
+|------|---------|
 ## 🛠️ What I Work With
 
 **Security**
