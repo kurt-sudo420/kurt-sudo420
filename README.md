@@ -1,5 +1,10 @@
 # Hi, I'm Kurt Sooknanan 👋
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](.)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](.)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](.)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](.)
 
+ 
 **Information Security Analyst ·  @ UMass Boston**
 
 I'm an IT student on a Systems Administration track with hands-on Security Operations (SOC) experience. I work as an Information Security Analyst at UMass Boston, and I run a home lab where I self-host cloud services, media servers, and local LLMs. I like understanding systems from the infrastructure up — and then figuring out how to defend them.
