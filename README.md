@@ -20,7 +20,7 @@ I'm an IT student on a Systems Administration track with hands-on Security Opera
 `Linux` · `TrueNAS / ZFS` · `Nextcloud` · `Jellyfin` · `Self-Hosted LLMs` · `Network Troubleshooting`
 
 **Cloud & Languages**
-`AWS` · `Python` · `Bash`
+`AWS` · `Python` · `Bash` `HTML` · `CSS` · `Javascript`
 
 ---
 
